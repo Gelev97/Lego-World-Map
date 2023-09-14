@@ -1,0 +1,30 @@
+- name: Honolulu
+  predicted_location: [42, 64]
+  correct_location: [40, 65]
+- name: Reykjavik
+  predicted_location: [7, 31]
+  correct_location: [1, 31]
+- name: Madrid
+  predicted_location: [56, 12]
+  correct_location: [53, 14]
+- name: Cairo
+  predicted_location: [62, 23]
+  correct_location: [59, 24]
+- name: Qingdao
+  predicted_location: [75, 27]
+  correct_location: [71, 29]
+- name: Taipei City
+  predicted_location: [106, 24]
+  correct_location: [105, 26]
+- name: Tokyo
+  predicted_location: [107, 34]
+  correct_location: [104, 32]
+- name: Melbourne
+  predicted_location: [113, 25]
+  correct_location: [110, 26]
+- name: Auckland
+  predicted_location: [115, 57]
+  correct_location: [112, 58]
+- name: Sydney
+  predicted_location: [126, 57]
+  correct_location: [122, 56]
